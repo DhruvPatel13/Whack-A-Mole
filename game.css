@@ -9,7 +9,7 @@ html {
   box-sizing: border-box;
 }
 body {
-  background: url(main.avif) no-repeat;
+  background: url(main.png) no-repeat;
   background-position: center;
   background-size: cover;
   margin: 0;
